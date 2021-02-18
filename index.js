@@ -81,6 +81,5 @@ const places = [
  
  //places.sort(compare);
  
- 
  //forma 2
  console.log(places.sort((a,b) => a.price - b.price))
